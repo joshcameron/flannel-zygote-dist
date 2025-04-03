@@ -1,6 +1,6 @@
 Metadata-Version: 2.4
 Name: flannel-zygote
-Version: 0.0.20250403022623
+Version: 0.0.20250403022755
 Summary: Flannel Zygote
 Requires-Python: >=3.11
 Description-Content-Type: text/markdown
