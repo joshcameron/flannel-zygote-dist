@@ -1,0 +1,10 @@
+[project]
+name = "flannel-zygote"
+version = "0.0.20250403022623"
+description = "Flannel Zygote"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = []
+
+[project.scripts]
+flannel_zygote = "flannel_zygote.cli:app"
